@@ -18,20 +18,11 @@ Este projeto foi criado para facilitar o sorteio de amigo secreto entre amigos, 
 
 ---
 
-## � Tecnologias
+## Tecnologias
 
 - JavaScript (lógica do sorteio e manipulação da interface)
 - HTML (estrutura da página)
 - CSS (estilização e responsividade)
-
----
-
-## 🚀 Como usar
-
-1. Clone este repositório: git clone
-   ```bash  https://github.com/tavaressilas10/Challange-game.git
- 
-2. Abra o arquivo `index.html` em seu navegador preferido.
 
 ---
 
